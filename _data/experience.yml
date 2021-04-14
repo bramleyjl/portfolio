@@ -1,19 +1,18 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Ad Hoc
+- company: Ad Hoc LLC
+  position: Software Engineer III
+  duration: Oct, 2020 &mdash; Present
+  summary: Currently a member of the user identity team at <a href="https://va.gov">VA.gov</a>, where I maintain and improve user identity authentication and management.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Symplicity
+- company: Symplicity Corporation
+  position: Software Engineer
+  duration:  Aug, 2018 &mdash; Oct, 2020
+  summary: Participated in a development team for Symplicity's flagship student management web app, where I took ownership of multiple features, including the technical integration of a third-party customer support service to include SSO and maintain linked user records across both platforms.
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Symplicity - Internship
+- company: Symplicity Corporation
+  position: Software Development Intern
+  duration:   May, 2018  &mdash; Aug, 2018
+  summary: Learned PHP over the course of a three-month internship while performing tech debt cleanups and implementing a feature for mobile check-in via QR code.
